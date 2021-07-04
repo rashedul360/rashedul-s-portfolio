@@ -1,0 +1,88 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+section {
+  display: flex;
+}
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+}
+span {
+  color: orange;
+}
+.main {
+  background-image: url("images/top-banner.png");
+  background-repeat: no-repeat;
+}
+.half-width h1 {
+  font-size: 50px;
+  margin-top: 50px;
+}
+.half-width h3 {
+  margin-top: 30px;
+}
+.hire_me {
+  /* margin-top: 50px !important; */
+  padding: 10px 50px;
+  background: linear-gradient(45deg, lightsalmon, tomato);
+  color: white;
+  text-decoration: none;
+  border-radius: 10px;
+}
+.half-width {
+  width: 50%;
+  padding-left: 7%;
+}
+.half-width p {
+  margin-top: 20px;
+}
+.hire_me_div {
+  margin-top: 25px;
+}
+.half-width img {
+  width: 85%;
+  padding: 6%;
+}
+.middle_section_image {
+  margin-left: -25px;
+}
+.download {
+  margin-top: 45px;
+}
+.download-link {
+  padding: 10px 20px;
+  background: linear-gradient(45deg, lightsalmon, tomato);
+  color: white;
+  text-decoration: none;
+  border-radius: 10px;
+}
+.bottom_main h1 {
+  font-size: 36px;
+}
+.middle {
+  background-image: url("images/dream-bg.png");
+  background-repeat: no-repeat;
+  background-position: right;
+}
+.desire {
+  border-left: 7px solid;
+  border-image: linear-gradient(180deg, lightsalmon, tomato);
+  border-image-slice: 1;
+  padding-left: 30px;
+  width: 40%;
+  margin-left: 70px;
+
+  box-shadow: 5px 7px 40px grey;
+  height: 430px;
+  /* background-image: url("images/exp-bg.png");
+  background-repeat: no-repeat;
+  background-position: left; */
+}
+.bottom_main {
+  background-image: url("images/exp-bg.png");
+  background-repeat: no-repeat;
+  background-position: left;
+}
+.footer {
+  margin-top: 140px;
+}
