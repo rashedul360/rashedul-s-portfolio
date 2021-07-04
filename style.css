@@ -74,6 +74,8 @@ span {
 
   box-shadow: 5px 7px 40px grey;
   height: 430px;
+  border-radius: 24px;
+
   /* background-image: url("images/exp-bg.png");
   background-repeat: no-repeat;
   background-position: left; */
