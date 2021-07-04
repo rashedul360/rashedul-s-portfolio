@@ -86,3 +86,8 @@ span {
 .footer {
   margin-top: 140px;
 }
+.my-color {
+  border-left: 7px solid;
+  border-image: linear-gradient(180deg, blue, cyan);
+  border-image-slice: 1;
+}
