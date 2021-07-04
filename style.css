@@ -90,4 +90,7 @@ span {
   border-left: 7px solid;
   border-image: linear-gradient(180deg, blue, cyan);
   border-image-slice: 1;
+  background-image: url("images/dream-bg.png");
+  background-repeat: no-repeat;
+  background-position: right;
 }
